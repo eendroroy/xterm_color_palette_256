@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "2.0.0"
 }
 
-group = "io.github.eendroroy.spring.demo"
+group = "io.github.eendroroy"
 version = "1.0-SNAPSHOT"
 
 repositories {
